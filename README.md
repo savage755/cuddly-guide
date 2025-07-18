@@ -1,4 +1,4 @@
-<h1 align="center">✨ 𝐁𝐄𝐋𝐓𝐀𝐇 𝐌𝐃 ✨</h1>
+<h1 align="center">✨ SAVAGE 𝐌𝐃 ✨</h1>
 
 <p align="center">
   <a href="https://github.com/Beltah254/X-BOT">
@@ -76,7 +76,7 @@
 
 ---
 
-## 🌈 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
+## 🥷 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
 
 <p align="center">
   <a href="https://x-bot-fork-cheacker.vercel.app/">
@@ -93,7 +93,7 @@
 
 ---
 
-## 🛡️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
+## ‼️𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
 
 > Copying or modifying this script is <b>not allowed!</b> No support will be provided for modified versions.
 
@@ -101,7 +101,7 @@
 
 ## 💬 𝐇𝐄𝐋𝐏 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
 
-- Need help? <a href="https://wa.me/254114141192"><img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+- Need help? <a href="https://wa.me/254768090202"><img src="https://img.shields.io/badge/Message%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 ---
 
