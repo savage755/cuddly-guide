@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/Beltah254BELTAH-MD-BOT">
-    <img src="https://img.shields.io/badge/BELTAH-MD-black?style=for-the-badge&logo=github" title="Author">
+    <img src="https://img.shields.io/badge/SAVAGE-MD-black?style=for-the-badge&logo=github" title="Author">
   </a>
-  <a href="https://github.com/Beltahtech?tab=followers">
-    <img src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social" title="Followers">
+  <a href="https://github.com/savagetech?tab=followers">
+    <img src="https://img.shields.io/github/followers/savagetech?label=Followers&style=social" title="Followers">
   </a>
   <a href="https://github.com/Beltah254/X-BOT/stargazers/">
     <img src="https://img.shields.io/github/stars/Beltah254/X-BOT?&style=social" title="Stars">
@@ -19,13 +19,13 @@
   <a href="https://github.com/Beltah254/X-BOT/network/members">
     <img src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social" title="Forks">
   </a>
-  <a href="https://github.com/BELTAH-MD-BOT/watchers">
+  <a href="https://github.com/SAVAGE-MD-BOT/watchers">
     <img src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social" title="Watching">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/Beltahtech">
+  <a href="https://youtu.be/savagetech">
     <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe">
   </a>
   <a href="https://github.com/Beltah254/BELTAH-MD-BOT/fork">
